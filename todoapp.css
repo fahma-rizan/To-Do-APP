@@ -1,0 +1,39 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    background-color:aliceblue;
+}
+
+h1{
+    font-style: oblique;
+    color:rgb(94, 94, 227);
+    margin-bottom:70px;
+    font-size:45px;
+}
+
+input{
+    padding:text;
+    width:400px;
+    height:45px;
+}
+
+button{
+    padding:10px 12 px;
+    margin-left: 10px;
+    height:45px;
+    width:90px;
+    background-color: rgba(127, 127, 219, 0.533);
+    color:white;
+    font-size: 15px;
+    font-style:inherit;
+    border-radius: 10px;
+}
+
+button:hover{
+    background-color:rgba(37, 37, 201, 0.533);
+}
+li{
+    margin-top:10px;
+    list-style:none;
+}
+
